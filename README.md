@@ -37,4 +37,3 @@ function output(minval, maxval, avgval, medianval) {
 
 const stats = calculateStatistics(inputData);
 output(stats.min, stats.max, stats.avg, stats.median);
-# Maths
