@@ -20,16 +20,10 @@ table {
     text-align: left;
 }
 
-th {
+th, td {
     border: 1px solid #ccc;
     padding: 8px;
-    text-align: left;
-}
-
-td {
-    border: 1px solid #ccc;
-    padding: 8px;
-    text-align: left;
+    text-align: center;
 }
 
 h2 {
