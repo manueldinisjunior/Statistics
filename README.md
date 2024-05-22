@@ -1,6 +1,6 @@
-# Statistics Calculator
+# Task: Statistics Calculation
 
-This project performs simple statistical calculations on an array of numbers and displays the results in an HTML page. The calculations include the minimum, maximum, average values, as well as the median.
+This project performs simple statistical calculations on an array of numbers and displays the results in an HTML page. The calculations include the minimum, maximum, and average values, as well as the median.
 
 ## Task Description
 
@@ -11,21 +11,7 @@ As discussed, the task is to perform simple calculations in JavaScript and outpu
 3. Calculate the average (mean) value of the array.
 4. As an additional task, calculate the median value of the array.
 
-The JavaScript implementation and the output of the results should be included in an HTML file named `index.html`.
-
-## Files
-
-- `index.html`: The main HTML file that displays the results.
-- `script.js`: The JavaScript file that contains the logic for calculating the statistics.
-- `README.md`: This file with an overview of the project and documentation about the task.
-
-## How to Use
-
-1. Clone the repository.
-2. Open `index.html` in a web browser.
-3. The results of the statistical calculations will be displayed on the page.
-
-## Example Data
+## Excercise Data
 
 The array of numbers to be used for the calculations is:
 
@@ -35,3 +21,19 @@ const inputData = [
     67.65, 35.09, 60.77, 71.07, 32.50, 90.44, 58.11, 76.19, 42.90, 71.69,
     36.09, 36.16, 14.91
 ];
+
+## Files
+
+- `index.html`: The main HTML file that displays the results.
+- `script.js`: The JavaScript file that contains the logic for calculating the statistics.
+- `README.md`: This file with an overview of the project and documentation about the task.
+
+## Resources
+
+1. W3School
+2. ChatGPT
+3. GitHub
+
+## Author
+
+Manuel Dinis Júnior
