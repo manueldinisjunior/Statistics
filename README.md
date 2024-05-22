@@ -15,12 +15,11 @@ As discussed, the task is to perform simple calculations in JavaScript and outpu
 
 The array of numbers to be used for the calculations is:
 
-```javascript
 const inputData = [
     63.24, 33.32, 85.94, 50.23, 86.39, 42.00, 20.05, 92.44, 37.14, 18.80,
     67.65, 35.09, 60.77, 71.07, 32.50, 90.44, 58.11, 76.19, 42.90, 71.69,
     36.09, 36.16, 14.91
-];```
+];
 
 ## Files
 
