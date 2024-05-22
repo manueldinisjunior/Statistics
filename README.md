@@ -79,4 +79,4 @@ https://statistics-aaojgbmav-manueldinisjuniors-projects.vercel.app/
 ## Author
 
 **Manuel Dinis Junior**
-- LinkedIn: [Manuel Dinis Junior](https://www.manueldinisjunior.com)
+- [Web-Portfolio](https://www.manueldinisjunior.com)
