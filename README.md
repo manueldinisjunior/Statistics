@@ -1,6 +1,6 @@
 # Task: Statistics Calculation
 
-This project performs simple statistical calculations on an array of numbers and displays the results in an HTML page. The calculations include the minimum, maximum, and average values, as well as the median.
+This project performs simple statistical calculations on an array of numbers and displays the results on an HTML page. The calculations include the minimum, maximum, and average values, as well as the median.
 
 ## Task Description
 
@@ -20,7 +20,7 @@ const inputData = [
     63.24, 33.32, 85.94, 50.23, 86.39, 42.00, 20.05, 92.44, 37.14, 18.80,
     67.65, 35.09, 60.77, 71.07, 32.50, 90.44, 58.11, 76.19, 42.90, 71.69,
     36.09, 36.16, 14.91
-];
+];```
 
 ## Files
 
