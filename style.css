@@ -5,7 +5,12 @@ body {
     height: 100vh;
     margin: 0;
     background-color: #f0f0f0; /* Bright grey color */
-    text-align:center;
+    text-align: center;
+}
+
+p {
+    margin: 0 auto;
+    text-align: center;
 }
 
 table {
