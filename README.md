@@ -76,8 +76,6 @@ outputResults(stats);
 
 https://statistics-aaojgbmav-manueldinisjuniors-projects.vercel.app/
 
-Sure, there's the content formatted as a README file within the 1000-character limit:
-
 ## Author
 
 **Manuel Dinis Junior**
