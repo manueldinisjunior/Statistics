@@ -2,7 +2,7 @@
 
 This project performs simple statistical calculations on an array of numbers and displays the results on an HTML page. The calculations include the minimum, maximum, and average values, as well as the median.
 
-## Task Description
+## Description
 
 As discussed, the task is to perform simple calculations in JavaScript and output the results in HTML. Specifically, you need to:
 
@@ -11,7 +11,7 @@ As discussed, the task is to perform simple calculations in JavaScript and outpu
 3. Calculate the average (mean) value of the array.
 4. As an additional task, calculate the median value of the array.
 
-## Excercise Data
+## Data
 
 The array of numbers to be used for the calculations is:
 
@@ -23,10 +23,10 @@ const inputData = [
 
 ## Files
 
-- `statistics.html`: The main HTML file that displays the results.
+- `index.html`: The main HTML file that displays the results.
 - `script.js`: The JavaScript file that contains the logic for calculating the statistics.
+- `style.css`: The CSS file that contains the logic for customizing the index page of the statistics calculator.
 - `README.md`: This file with an overview of the project and documentation about the task.
-
 
 ## Algorithm
 
@@ -78,3 +78,7 @@ https://statistics-aaojgbmav-manueldinisjuniors-projects.vercel.app/
 
 Sure, there's the content formatted as a README file within the 1000-character limit:
 
+## Author
+
+**Manuel Dinis Junior**
+- LinkedIn: [Manuel Dinis Junior](https://www.manueldinisjunior.com)
