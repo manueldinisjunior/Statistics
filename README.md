@@ -23,7 +23,7 @@ const inputData = [
 
 ## Files
 
-- `index.html`: The main HTML file that displays the results.
+- `statistics.html`: The main HTML file that displays the results.
 - `script.js`: The JavaScript file that contains the logic for calculating the statistics.
 - `README.md`: This file with an overview of the project and documentation about the task.
 
